@@ -1,0 +1,17 @@
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Course input images (not redistributed) and generated outputs
+sekvence/
+*Chagned.png
+*_sharp.jpg
+*_bilinear.jpg
+
+# OS files
+desktop.ini
+Thumbs.db
+.DS_Store
